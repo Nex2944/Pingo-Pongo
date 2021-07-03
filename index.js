@@ -68,4 +68,4 @@ fs.readdir('./commands/', async (err, files) => {
 });
 
 require('./server')();
-client.login(config.token);
+client.login('ODU2NDgzMDA5MTgzODc1MDcz.YNBr9g.cyyRSyj5rkD8MD1KYEQy8_PpjwQ');
